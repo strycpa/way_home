@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express.io": "~1.1.13",
+    "cson-config": "~0.1.8",
+    "coffee-script": "~1.7.1"
+  }
+}
